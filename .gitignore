@@ -1,0 +1,11 @@
+vendor/data-app/SmartHome/SmartHome.apk
+vendor/camera/mimoji/model2.zip
+product/priv-app/GmsCore/GmsCore.apk
+boot.img
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/priv-app/Browser/Browser.apk
+system/system/priv-app/MiuiVideo/MiuiVideo.apk
+system/system/data-app/VipAccount/VipAccount.apk
+system/system/apex/com.android.vndk.current.apex
+system/system/app/Music/Music.apk
+recovery.img
