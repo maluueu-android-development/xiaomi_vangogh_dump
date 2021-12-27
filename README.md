@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200826.002 V12.1.7.0.RJVCNXM release-keys
+- manufacturer: xiaomi
+- platform: lito
+- codename: vangogh
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: V12.1.7.0.RJVCNXM
+- tags: release-keys
+- fingerprint: Xiaomi/vangogh/vangogh:11/RKQ1.200826.002/V12.1.7.0.RJVCNXM:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: qssi-user-11-RKQ1.200826.002-V12.1.7.0.RJVCNXM-release-keys
+- repo: xiaomi_vangogh_dump

@@ -1,0 +1,2 @@
+require version-baseband=2.0.c7-00133-SAIPAN_GEN_PACK-1.367496.2.379880.2
+require version-vendor=1619045365
